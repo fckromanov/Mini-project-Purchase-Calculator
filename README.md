@@ -34,7 +34,7 @@ go run main.go
 
 ## 👨‍💻 Автор
 
-[@shrinesdev](https://github.com/fckromanov)
+[@fckromanov](https://github.com/fckromanov)
 
 ---
 

@@ -15,7 +15,7 @@ func main() {
 
 	product2Name := "Мышь"
 	product2Price := 8000.0
-	product2Qty := 2
+	product2Qty := 6
 
 	product3Name := "Клавиатура"
 	product3Price := 5000.0
